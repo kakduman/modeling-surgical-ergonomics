@@ -1,11 +1,3 @@
 # Assessing Surgical Ergonomics in 3D
-### Kevin Zhou
 
-This repository contains the code for the above senior project. The "tools" folder contains scripts for unzipping data, 
-synchronizing images, calculating camera extrinsic parameters, and measuring posture via back-projection and 
-surface reconstruction. The "model" folder contains the network used in unsupervised learning to estimate the pose 
-transformation across cameras. The "segmentation" folder contains
-the U-Net architecture used to perform semantic segmentation, along with the trained weights in the "trained_models" subfolder. The "ergonomics_pipeline" notebook illustrates usage of the relevant
-components of the project, and the necessary data for the demo is found in the "data" folder. To obtain 
-the complete dataset, please contact
-Professor Alex Wong at alex.wong@yale.edu.
+The code to run this pipeline is available in the surgical\_pipeline.ipynb file. External downloads of pretrained weights and updating absolute paths may be required. Please refer to my mentor, Alex Wong (alex [dot] wong [at] yale [dot] edu), for all data, including a collection of DepthAnything images trained with the vitb set of pretrained weights. These images could be recreated using the vitl encoder if more accuracy is required in future works. The entire collection of data, weights, and code used in this model includes approximately 4 million files occupying about 1.2TB of storage. Scripts that were run on the Grace HPC cluster are available under the bash directories as .slurm files. The project was created with Python 3.10.8.
