@@ -1,0 +1,17 @@
+.idea
+data/synchronized_derived
+data/
+!data/annotated/
+segmentation/subpixel-embedding-segmentation/trained_models*
+**/.DS_Store
+**/__pycache__
+/Depth-Anything-V2-main
+.DS_Store
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+.env
+*.out
+*.err
+*.psd

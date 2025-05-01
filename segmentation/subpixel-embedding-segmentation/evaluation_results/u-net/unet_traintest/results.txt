@@ -1,0 +1,126 @@
+Input paths:
+testing/ergonomics/test_scans.txt
+
+Input settings:
+n_chunk=3    
+
+Normalization settings:
+dataset_normalization=standard
+dataset_means=[30.20063]
+dataset_stddevs=[35.221165]
+
+Network settings:
+encoder_type=['vggnet13']
+n_filters_encoder=[64, 128, 256, 512, 512]
+decoder_type=['generic']
+n_filters_decoder=[512, 256, 128, 64]
+
+Weight settings:
+Parameters: n_parameters=19591616
+weight_initializer=kaiming_uniform  activation_func=leaky_relu  use_batch_norm=True
+
+Checkpoint settings:
+checkpoint_path=evaluation_results/u-net/unet_traintest
+restore_path=trained_models/unet/unet_traintest/model-2200.pth
+
+Hardware settings:
+device=cuda
+n_thread=8
+
+Begin evaluation...
+Input paths:
+testing/ergonomics/test_scans.txt
+
+Input paths:
+testing/ergonomics/test_scans.txt
+
+Input paths:
+testing/ergonomics/test_scans.txt
+
+Input settings:
+n_chunk=3    
+
+Normalization settings:
+dataset_normalization=standard
+dataset_means=[30.20063]
+dataset_stddevs=[35.221165]
+
+Network settings:
+encoder_type=['vggnet13']
+n_filters_encoder=[64, 128, 256, 512, 512]
+decoder_type=['generic']
+n_filters_decoder=[512, 256, 128, 64]
+
+Weight settings:
+Parameters: n_parameters=19591616
+weight_initializer=kaiming_uniform  activation_func=leaky_relu  use_batch_norm=True
+
+Checkpoint settings:
+checkpoint_path=evaluation_results/u-net/unet_traintest
+restore_path=trained_models/unet/unet_traintest/model-2200.pth
+
+Hardware settings:
+device=cpu
+n_thread=8
+
+Begin evaluation...
+Input paths:
+testing/ergonomics/test_scans.txt
+
+Input settings:
+n_chunk=3    
+
+Normalization settings:
+dataset_normalization=standard
+dataset_means=[30.20063]
+dataset_stddevs=[35.221165]
+
+Network settings:
+encoder_type=['vggnet13']
+n_filters_encoder=[64, 128, 256, 512, 512]
+decoder_type=['generic']
+n_filters_decoder=[512, 256, 128, 64]
+
+Weight settings:
+Parameters: n_parameters=19591616
+weight_initializer=kaiming_uniform  activation_func=leaky_relu  use_batch_norm=True
+
+Checkpoint settings:
+checkpoint_path=evaluation_results/u-net/unet_traintest
+restore_path=trained_models/unet/unet_traintest/model-2200.pth
+
+Hardware settings:
+device=cpu
+n_thread=8
+
+Begin evaluation...
+Input paths:
+testing/ergonomics/test_scans.txt
+
+Input settings:
+n_chunk=3    
+
+Normalization settings:
+dataset_normalization=standard
+dataset_means=[30.20063]
+dataset_stddevs=[35.221165]
+
+Network settings:
+encoder_type=['vggnet13']
+n_filters_encoder=[64, 128, 256, 512, 512]
+decoder_type=['generic']
+n_filters_decoder=[512, 256, 128, 64]
+
+Weight settings:
+Parameters: n_parameters=19591616
+weight_initializer=kaiming_uniform  activation_func=leaky_relu  use_batch_norm=True
+
+Checkpoint settings:
+checkpoint_path=evaluation_results/u-net/unet_traintest
+restore_path=trained_models/unet/unet_traintest/model-2200.pth
+
+Hardware settings:
+device=cpu
+n_thread=8
+
+Begin evaluation...

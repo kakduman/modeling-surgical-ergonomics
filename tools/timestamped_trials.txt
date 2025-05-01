@@ -1,0 +1,4 @@
+SB1C
+3 timestamped views
+['/Users/primary/Documents/GitHub/cs-thesis/3d-ergonomics/data/data-3d/SB/SB1Cleft/image.txt', '/Users/primary/Documents/GitHub/cs-thesis/3d-ergonomics/data/data-3d/SB/SB1Cright/image.txt', '/Users/primary/Documents/GitHub/cs-thesis/3d-ergonomics/data/data-3d/SB/SB1Cback/image.txt']
+

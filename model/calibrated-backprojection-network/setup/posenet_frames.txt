@@ -1,0 +1,1 @@
+/Users/primary/Documents/GitHub/cs-thesis/3d-ergonomics/data/data-3d/SB/SB1Cback/data/image/0000000433-1681416357603.1306.png,/Users/primary/Documents/GitHub/cs-thesis/3d-ergonomics/data/data-3d/SB/SB1Cleft/data/image/0000000287-1681416357578.2869.png,/Users/primary/Documents/GitHub/cs-thesis/3d-ergonomics/data/data-3d/SB/SB1Cright/data/image/0000000134-1681416357582.8245.png
